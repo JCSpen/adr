@@ -1,4 +1,4 @@
-# 6. Design Patterns
+# 7. Design Patterns
 
 Date: 15/11/23
 
